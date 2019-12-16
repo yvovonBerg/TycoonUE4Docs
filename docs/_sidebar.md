@@ -1,7 +1,6 @@
 - Getting started
 
   - [Quick start](quickstart.md)
-  - [Deformation sliders](sliders.md)
   - [Building tracks](track_build.md)
   - [Preset files](preset_files.md)
   - [Attachments](attachments.md)
@@ -10,6 +9,7 @@
 
   - [Preparing custom meshes](prep_mesh.md)
   - [Blueprint nodes](tycoon_blueprint.md)
+  - [Packaging/Shipping](shipping.md)
 
 - Tycoon animation pack
 
