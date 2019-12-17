@@ -2,7 +2,7 @@
 ![](/img/cover.jpg)
 
 
-# quickstart (Closed beta instructions)
+# Quickstart (Closed beta instructions)
 
 Download Tycoon Beta Installer:
 [Download](https://github.com/yvovonBerg/CGTS_Downloads/releases/download/1.0.0/TycoonBuildDeploy.zip)
