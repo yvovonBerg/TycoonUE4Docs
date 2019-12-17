@@ -1,3 +1,5 @@
+![](/img/cover.jpg)
+
 # Tycoon for UE4
 
 > Welcome to the Tycoon for Unreal Engine documentation!  
@@ -17,3 +19,7 @@ See [Tycoon website](http://yvovonberg.nl/test/index.html) for more examples.
 
 Latest version Tycoon UE4: 1.0.0  
 Latest version Tycoon Animation UE4: 1.0.0
+
+![](/img/trackaddui.PNG)
+
+
