@@ -8,7 +8,7 @@
 
 3. Add a new piece.
 
-![](/img/attachments1.png)
+![](/img/attachments1.PNG)
 
 
 # Enabling attachments to all pieces
@@ -30,4 +30,4 @@ This will go through every piece and add an attachment actor.
 
 > Initial offset: The first offset that will applied to the first row.
 
-![](/img/attachments2.png)
+![](/img/attachments2.PNG)

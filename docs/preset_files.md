@@ -10,7 +10,7 @@ Clicking the "Create" button under the Preset section will create a new preset w
 
 To add the preset to the track, just select the preset file from the "Preset input" dropdown and press "Build".
 
-![](/img/presets1.png)
+![](/img/presets1.PNG)
 
 
 # Editing

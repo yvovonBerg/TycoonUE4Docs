@@ -13,7 +13,7 @@ You can use the preset buttons to quickly go to 90 degrees.
 
 4. To add a new piece to the track press the "Add" button, the "|" / straight button adds a straight piece without bend / direction or twist values.
 
-![](/img/trackaddui.png)
+![](/img/trackaddui.PNG)
 
 
 
