@@ -1,5 +1,5 @@
 
-![](/img/logo_center.png)
+[![](/img/logo_center.png)](https://yvovonberg.github.io/TycoonUE4Docs)
 
 - Getting started
 
