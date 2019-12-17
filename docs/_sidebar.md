@@ -1,3 +1,6 @@
+
+![](/img/logo_center.png)
+
 - Getting started
 
   - [Quick start](quickstart.md)
@@ -13,11 +16,9 @@
 
 - Tycoon animation pack
 
-  - [Installing animation pack](install_tycoon_animation.md)
-  - [Train setup](train_config.md)
-  - [Blueprint nodes](animation_blueprint.md)
+  - [Using animation pack](using_tycoon_animation.md)
 
 
-
-- [Tycoon website](awesome.md)
+- [Tycoon website](http://cgtoolsmith.com/)
 - [CGToolsmith / Me](http://cgtoolsmith.com/)
+
