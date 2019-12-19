@@ -5,7 +5,7 @@
 # Quickstart (Closed beta instructions)
 
 Download Tycoon Beta Installer:
-[Download](https://github.com/yvovonBerg/CGTS_Downloads/releases/download/1.0.0/TycoonBuildDeploy.zip)
+[Download](https://github.com/yvovonBerg/CGTS_Downloads/releases)
 
 1. Extract the zipfile somewhere where you can easily find it back.
 
