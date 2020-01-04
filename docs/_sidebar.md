@@ -21,4 +21,5 @@
 
 - [Tycoon website](http://cgtoolsmith.com/)
 - [CGToolsmith / Me](http://cgtoolsmith.com/)
+- [Beta terms and conditions](/tycoon_beta_terms_v1.0.0.pdf)
 
