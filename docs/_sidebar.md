@@ -11,6 +11,7 @@
 - Customization
 
   - [Preparing custom meshes](prep_mesh.md)
+  - [Materials](materials.md)
   - [Blueprint nodes](tycoon_blueprint.md)
   - [Packaging/Shipping](shipping.md)
 
