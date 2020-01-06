@@ -20,7 +20,7 @@
   - [Using animation pack](using_tycoon_animation.md)
 
 
-- [Tycoon website](http://cgtoolsmith.com/)
+- [Tycoon website](http://cgtoolsmith.com/tycoon/)
 - [CGToolsmith / Me](http://cgtoolsmith.com/)
 - [Beta terms and conditions](https://yvovonberg.github.io/TycoonUE4Docs/tycoon_beta_terms_v1.0.0.pdf)
 
