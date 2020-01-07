@@ -5,6 +5,8 @@
 # Quickstart (Closed beta instructions)
 
 Download Tycoon Beta Installer:
+Current build of Tycoon is made for UE4 4.23.
+
 [Download](https://github.com/yvovonBerg/CGTS_Downloads/releases)
 
 1. Extract the zipfile somewhere where you can easily find it back.
@@ -21,7 +23,7 @@ Download Tycoon Beta Installer:
 > Can't find your key? Check your beta welcome email, or raise an issue at the service center:  
 Go to [Tycoon Service Center](https://tycoon.atlassian.net/servicedesk/customer/portals) or press submit bug.
 
-6. Make that Unreal is not running.
+6. Make sure that Unreal is not running.
 
 7. Click "install build".
 
@@ -52,3 +54,4 @@ Go to [Tycoon Service Center](https://tycoon.atlassian.net/servicedesk/customer/
 Click "Update Track" to fix this.
 
 5. Closed beta only: Track does not working after shipping. Will be fixed after closed beta.
+
