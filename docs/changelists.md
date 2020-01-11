@@ -6,4 +6,4 @@
 
 -> Tycoon hotfix: Resolved issue where the track would disappear after saving the map.
 
--> Tycoon hotfix: Resolved issue where the materials / textures were not visible after saving & loading the map.
+-> Tycoon hotfix: Resolved issue where the materials / textures were not visible after saving/loading maps.
