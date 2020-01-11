@@ -20,14 +20,7 @@ See [Tycoon website](http://yvovonberg.nl/test/index.html) for more examples.
 Latest version Tycoon UE4: 1.1.0  
 Latest version Tycoon Animation UE4: 1.1.0
 
+[Changelists](changelists.md)
+
 ![](/img/trackaddui.PNG)
-
-# Changelists
-
-# 1.1.0
-
--> Tycoon Animation hotfix: Resolved editor crashing when active train is not set in blueprints.
--> Tycoon hotfix: Resolved issue where the track would disappear after saving the map.
--> Tycoon hotfix: Resolved issue where the materials / textures were not visible after saving & loading the map.
-
 
