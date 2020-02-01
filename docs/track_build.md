@@ -13,6 +13,12 @@ You can use the preset buttons to quickly go to 90 degrees.
 
 4. To add a new piece to the track press the "Add" button, the "|" / straight button adds a straight piece without bend / direction or twist values.
 
+# Convert meshes to spline meshes (Experimental)
+
+1. Click the "Convert spline"
+
+2. Move / adjust the spline points of the Tycoon spline component part of your Tycoon main actor.
+
 ![](/img/trackaddui.PNG)
 
 

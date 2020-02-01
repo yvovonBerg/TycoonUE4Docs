@@ -17,8 +17,8 @@ See [Tycoon website](http://yvovonberg.nl/test/index.html) for more examples.
 
 # Build info
 
-Latest version Tycoon UE4: 1.1.0  
-Latest version Tycoon Animation UE4: 1.1.0
+Latest version Tycoon UE4: 1.2.0  
+Latest version Tycoon Animation UE4: 1.2.0
 
 [Changelists](changelists.md)
 

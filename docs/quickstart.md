@@ -44,14 +44,16 @@ Go to [Tycoon Service Center](https://tycoon.atlassian.net/servicedesk/customer/
 
 # Known issues with Tycoon Beta
 
-1. Source mesh must be facing the Y axis. (When preparing your mesh in your DDC application)
+Source mesh must be facing the Y axis. (When preparing your mesh in your DDC application)
 
-2. Only one material index is supported for track pieces.
+Only one material index is supported for track pieces.
 
-3. Material instances in Unreal Engine are not supported currently.
+Material instances in Unreal Engine are not supported currently.
 
-4. Tycoon piece is not being rebuilt automatically after saving the map / Help my track is gone after saving:
-Click "Update Track" to fix this.
+Closed beta only: Track does not working after shipping. Will be fixed after closed beta.
 
-5. Closed beta only: Track does not working after shipping. Will be fixed after closed beta.
+Saving spline presets is not supported yet, however you can still add existing presets to spline based tracks.
 
+Rotating the TycoonMain actor causes the spline to deform incorrectly, -> remove any rotation from the actor to resolve this for now.
+
+Spline mesh deforms incorrectly in some 90+ degree turns -> adjust the spline length to resolve this for now.
