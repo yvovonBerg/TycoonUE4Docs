@@ -9,7 +9,9 @@
 3. Import your mesh into Unreal Engine.
 
 4. Select the mesh in the Mesh input dropdown.  
-This mesh will be used on the next piece, press "Apply to all" to replace existing meshes with this select mesh.
+This mesh will be used on the next piece, press "Apply to all" to replace existing meshes with this select mesh. 
+
+> 'Apply to all' only works in non-spline mode.
 
 ![](/img/custommeshdropdown.png)
 

@@ -13,7 +13,6 @@
   - [Preparing custom meshes](prep_mesh.md)
   - [Materials](materials.md)
   - [Blueprint nodes](tycoon_blueprint.md)
-  - [Packaging/Shipping](shipping.md)
 
 - Tycoon animation pack
 
@@ -23,5 +22,4 @@
 - [Tycoon website](http://cgtoolsmith.com/tycoon/)
 - [CGToolsmith / Me](http://cgtoolsmith.com/)
 - [Changelists](changelists.md)
-- [Beta terms and conditions](https://yvovonberg.github.io/TycoonUE4Docs/tycoon_beta_terms_v1.0.0.pdf)
 

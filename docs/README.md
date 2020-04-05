@@ -8,7 +8,7 @@
 
 Tycoon UE4 is a plugin for Unreal Engine 4 that allows you to snap 'n bend geometry.
 You can use this tool to create rollercoaster tracks, pipes, walls, bridges, cables, race tracks and more!
-See [Tycoon website](http://yvovonberg.nl/test/index.html) for more examples.
+See [Tycoon website](http://cgtoolsmith.com/tycoon/) for more examples.
 
 # How to get help
 
@@ -17,8 +17,8 @@ See [Tycoon website](http://yvovonberg.nl/test/index.html) for more examples.
 
 # Build info
 
-Latest version Tycoon UE4: 1.2.0  
-Latest version Tycoon Animation UE4: 1.2.0
+Latest version Tycoon UE4: 1.3.0  
+Latest version Tycoon Animation UE4: 1.3.0
 
 [Changelists](changelists.md)
 

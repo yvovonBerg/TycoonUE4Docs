@@ -2,9 +2,9 @@
 
 # TycoonUpdate
 
-You can execute the "Update Track" command through blueprint as well using the TycoonUpdate blueprint node.
+You can execute the "Refresh All Anchors" command through blueprint.
 1. Create a reference to the Tycoon Main collection actor.
-2. Search for Tycoon Update
+2. Search for Tycoon
 Note: This will update the entire track, so it might be a slow operation. 
 
 ![](/img/tycoonupdatebp.PNG)

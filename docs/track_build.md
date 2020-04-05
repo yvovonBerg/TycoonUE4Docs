@@ -15,9 +15,17 @@ You can use the preset buttons to quickly go to 90 degrees.
 
 # Convert meshes to spline meshes (Experimental)
 
-1. Click the "Convert spline"
+1. Click the "Convert spline" button.
 
-2. Move / adjust the spline points of the Tycoon spline component part of your Tycoon main actor.
+2. Click 'Yes'
+
+![](/img/converttosplinedialog.PNG)
+
+>Your mesh might deform incorrectly if your mesh is longer than 150 cm. Tycoon can auto slice / correct this using the slice feature.
+This will create a duplicate shorter version of your mesh.
+Mesh slice quality: Quality slider for the final spline. (Higher is more points).
+
+3. Move / adjust the spline points of the Tycoon spline component part of your Tycoon main actor.
 
 ![](/img/trackaddui.PNG)
 
