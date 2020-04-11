@@ -7,6 +7,7 @@
   - [Building tracks](track_build.md)
   - [Preset files](preset_files.md)
   - [Attachments](attachments.md)
+  - [Shipping / Package track](package_track.md)
 
 - Customization
 
@@ -17,6 +18,7 @@
 - Tycoon animation pack
 
   - [Using animation pack](using_tycoon_animation.md)
+
 
 
 - [Tycoon website](http://cgtoolsmith.com/tycoon/)
