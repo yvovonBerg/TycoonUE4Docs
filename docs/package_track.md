@@ -1,9 +1,7 @@
 
 # Package instructions
 
-> TycoonTool is an editor only plugin, it should not be added to your shipping builds. (Exclude them for your build system or disable the plugin).
-
-> You can use TycoonAnimation in your shipping builds, because it's an Unreal runtime plugin.
+> You can use the TycoonAnimation module in your shipping builds, because it's an Unreal runtime plugin.
 
 
 # To package your track
@@ -17,6 +15,7 @@ In order to use the data generated from TycoonTool in your shipping build, you w
 3. Click 'Yes', you will now see a new actor in your map called 'TycoonConvertedActor'.
 
 
+# Performance
 
-
+To optimze the track further you can use the package track feature as well to greatly reduce drawcalls.
 

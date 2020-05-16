@@ -1,9 +1,8 @@
 # Using the animation pack
 
-1. Verify that the animation pack plugin is installed. (By going to the plugins section in Unreal.)
-2. In the content browser -> Enable the sources panel.
-3. Click on TycoonAnimation C++ classes -> TycoonAnimation -> Public -> TycoonAnimationController and drag it into your current level.
-4. In your level blueprint -> Create a reference to the TycoonAnimationController.
+1. In the content browser -> Enable the sources panel.
+2. Click on TycoonTool C++ classes -> TycoonAnimation -> Public -> TycoonAnimationController and drag it into your current level.
+3. In your level blueprint -> Create a reference to the TycoonAnimationController.
 
 # Animate basic actors:
 
