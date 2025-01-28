@@ -1,5 +1,9 @@
 # Building tracks
 
+0. Launch the tool by launching it via the "Modes" menu.
+![](/img/start.jpg)
+
+
 1. CLick the "New track" button.
 This will spawn a new Tycoon collection piece in the world. All your track pieces will be parented under this actor.
 
